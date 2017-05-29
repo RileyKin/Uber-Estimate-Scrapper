@@ -1,0 +1,7 @@
+#Location A
+start_lat: 'add starting latitude here'
+start_lng: 'add starting longitude here'
+
+#Location B
+end_lat: 'add ending latitude here'
+end_lng: 'add ending longitude here'

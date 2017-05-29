@@ -1,0 +1,10 @@
+client_id: 'personal client id goes here'
+client_secret: 'personalclient secret goes here'
+redirect_url: https://localhost:8000/api/v1/uber/oauth
+scopes:
+    - profile
+    - history
+    - places
+    - request
+    - request_receipt
+    - all_trips
